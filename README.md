@@ -10,4 +10,3 @@ You'll also gain experience with powerful tools in AI, including:
 
 - **OpenCV**
 - **YOLO**
-![image](https://github.com/user-attachments/assets/5b059906-0aae-47fe-8ea0-d616ff3834fb)
